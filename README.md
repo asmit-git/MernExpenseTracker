@@ -21,7 +21,7 @@ Features:
 ![Screenshot](expensecategory.png)
 * logged in user can create transaction
 * logged in user can delete transaction
-![Screenshot](exoensetransaction.png)
+![Screenshot](expensetransaction.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -59,7 +59,7 @@ _Feel free to clone the repo and make some enhancements._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/asmit-git/mernExpenseTracker.git
    ```
 2. Install NPM packages
    ```sh
@@ -111,7 +111,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Asmit Gautam - [@asmittech](https://www.linkedin.com/in/asmittech/) - mailtoasmitgautam@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/asmit-git/mernExpenseTracker](https://github.com/asmit-git/mernExpenseTracker)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
